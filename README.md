@@ -1,9 +1,4 @@
-# Readme
-#ch4hs
-#test project 
+>>>table={'1975': 'holly grail'
+...       '1979': 'life of brail'
+...       '1989': 'the meaning of life'}
 
-print("hello")
-print("")
-print("hello!")
-print("")
-print("sincerely maan")
